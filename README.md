@@ -84,7 +84,7 @@ The dataset contains 30 numerical features grouped into three categories:
 - Symmetry Worst
 - Fractal Dimension Worst
 
-## 🛠️ Technologies and Tools Used
+##  Technologies and Tools Used
 
 - Python
 - NumPy
@@ -97,7 +97,7 @@ The dataset contains 30 numerical features grouped into three categories:
 - Jupyter Notebook
 - Streamlit
 
-## 🔍 Project Workflow
+##  Project Workflow
 
 ### 1. Data Collection
 Loaded the Breast Cancer Wisconsin dataset using Scikit-learn and explored the separate CSV dataset during the initial EDA process.
