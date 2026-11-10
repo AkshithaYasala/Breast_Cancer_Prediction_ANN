@@ -1,6 +1,6 @@
 # 🎗️ Breast Cancer Prediction Classification Using Artificial Neural Network (ANN)
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on developing a Deep Learning classification model using an **Artificial Neural Network (ANN)** to predict whether a breast tumor is **Benign (Non-Cancerous) or Malignant (Cancerous)** based on various tumor characteristics.
 
@@ -8,7 +8,7 @@ The model learns patterns from numerical features such as radius, texture, perim
 
 The primary objective is to explore how Artificial Neural Networks can be applied to binary classification problems using Python, TensorFlow, and Keras.
 
-## 🎯 Business / Problem Objective
+##  Business / Problem Objective
 
 Breast cancer classification involves analyzing different characteristics of tumors to distinguish between benign and malignant cases.
 
@@ -21,7 +21,7 @@ The objective of this project is to:
 - Evaluate model performance using test data.
 - Develop a model that predicts tumor classification based on input features.
 
-## 📊 Dataset Information
+##  Dataset Information
 
 **Dataset:** Breast Cancer Wisconsin Dataset
 
@@ -153,7 +153,7 @@ Evaluated the trained ANN model on unseen test data.
 
 The model achieved approximately 97.37% accuracy on the test dataset.
 
-## 📈 Key Highlights
+## Key Highlights
 
 - Worked with 569 breast cancer records and 30 numerical features.
 - Performed data cleaning and exploratory data analysis.
@@ -165,7 +165,7 @@ The model achieved approximately 97.37% accuracy on the test dataset.
 - Achieved 97.37% test accuracy.
 - Explored a Streamlit interface for interactive predictions.
 
-## 🚀 Streamlit Application
+## Streamlit Application
 
 Developed a user-friendly web application using Streamlit to demonstrate the trained ANN model.
 
@@ -175,7 +175,7 @@ The application allows users to:
 - Obtain a predicted classification.
 - View the classification result as Benign or Malignant.
 
-## 💡 Skills Gained
+## Skills Gained
 
 Through this project, I strengthened my practical knowledge of:
 
@@ -191,28 +191,12 @@ Through this project, I strengthened my practical knowledge of:
 - Model Training and Evaluation
 - Streamlit Application Development
 
-## 📂 Project Structure
 
-```text
-Breast-Cancer-Prediction-ANN/
-│
-├── Breast_cancer_classification_ANN.ipynb
-├── data.csv
-├── app.py
-├── breast_cancer_ann.keras
-├── scaler.pkl
-├── requirements.txt
-└── README.md
-```
-
-The model and scaler files should be included if you have saved them for the Streamlit application.
-
-
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This project is developed for educational and learning purposes only. It is not a clinically validated medical diagnostic system. Predictions should not be used as a substitute for professional medical advice, diagnosis, or treatment.
 
-## 👩‍💻 Author
+##  Author
 
 **Yasala Akshitha**
 
